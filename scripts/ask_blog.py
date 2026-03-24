@@ -14,6 +14,17 @@ import anthropic
 POSTS_DIR = pathlib.Path(__file__).parent.parent / "_posts"
 MODEL = "claude-haiku-4-5-20251001"
 
+# Load API key from .env if not already in environment
+def _load_api_key() -> str:
+    if os.environ.get("ANTHROPIC_API_KEY"):
+        return os.environ["ANTHROPIC_API_KEY"]
+    env_path = pathlib.Path(r"G:\repos\AI\RoadTrip\workflows\014-PPA-voice-terminal\src\phone_buddy\.env")
+    if env_path.exists():
+        for line in env_path.read_text().splitlines():
+            if line.startswith("ANTHROPIC_API_KEY="):
+                return line.split("=", 1)[1].strip()
+    raise RuntimeError("ANTHROPIC_API_KEY not found. Set the env var or add it to .env")
+
 
 def load_all_posts() -> str:
     posts = sorted(POSTS_DIR.glob("*.md"))
@@ -26,7 +37,7 @@ def load_all_posts() -> str:
 
 
 def ask(question: str) -> str:
-    client = anthropic.Anthropic()
+    client = anthropic.Anthropic(api_key=_load_api_key())
     corpus = load_all_posts()
     system = (
         "You are a personal assistant helping the author query their own blog posts. "
