@@ -1,0 +1,38 @@
+title: "bizcad"
+description: "Nick's notes on AI agents, autonomous systems, and building things that work."
+author: Nicholas Stein
+email: ""
+baseurl: ""
+url: "https://bizcad.github.io"
+
+theme: minima
+
+minima:
+  skin: classic
+  date_format: "%B %-d, %Y"
+  social_links:
+    - { platform: github, user_url: "https://github.com/bizcad" }
+
+# Show excerpts on the home page
+show_excerpts: true
+
+# Post defaults — no need for layout: post in every file
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+
+# Plugins allowed on GitHub Pages
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude build artifacts and dev files
+exclude:
+  - scripts/
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - "*.gemspec"
