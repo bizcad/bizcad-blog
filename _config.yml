@@ -2,7 +2,7 @@ title: "bizcad"
 description: "Nick's notes on AI agents, autonomous systems, and building things that work."
 author: Nicholas Stein
 email: ""
-baseurl: ""
+baseurl: "/bizcad-blog"
 url: "https://bizcad.github.io"
 
 theme: minima
