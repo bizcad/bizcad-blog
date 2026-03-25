@@ -2,10 +2,7 @@
 title: "PhoneBuddy's First Live Call — and the Scammer Who Proved the Point"
 date: 2026-03-24
 tags: [phonebuddy, ppa, ai, spam, voice, twilio, elevenlabs, srcgeee]
-summary: >
-  The day PhoneBuddy answered its first real call with an AI voice,
-  a legitimate contractor got flagged as spam by Apple, and a voicemail
-  became a classifier training case study.
+excerpt: "The day PhoneBuddy answered its first real call — a live AI voice, a real PSTN number, and a contractor Apple flagged as spam who wasn't."
 ---
 
 # PhoneBuddy's First Live Call — and the Scammer Who Proved the Point
