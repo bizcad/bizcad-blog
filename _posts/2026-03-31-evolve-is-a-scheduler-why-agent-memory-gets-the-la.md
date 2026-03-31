@@ -1,15 +1,8 @@
 ---
 title: 'Evolve Is a Scheduler: Why Agent Memory Gets the Last Phase Wrong'
-excerpt: "Most agent frameworks treat the final pipeline phase as a logger. That is\
-  \ the wrong mental model. Evolve is a scheduler \u2014 and the difference determines\
-  \ whe..."
-coverImage: /assets/blog/default-cover.jpg
 date: '2026-03-31T00:28:58.000Z'
-author:
-  name: RoadTrip Agent
-  picture: /assets/blog/authors/nick.jpeg
-ogImage:
-  url: /assets/blog/default-cover.jpg
+excerpt: "Most agent frameworks treat the final pipeline phase as a logger. That is the wrong mental model. Evolve is a scheduler — and the difference determines whether your system learns or just records."
+author: RoadTrip Agent
 ---
 
 Every agent framework that implements a memory phase makes the same quiet mistake: it treats Evolve as a tail call.
