@@ -69,4 +69,4 @@ These aren't automated rules. They're judgment calls — and judgment calls are 
 
 ---
 
-*The full adversarial analysis, combined transcript, and application notes for three repos live in [token-optimization-analysis-20260402.md](https://bizcad.github.io/bizcad-blog/assets/artifacts/token-optimization-analysis-20260402.txt).*
+*The full adversarial analysis, combined transcript, and application notes for three repos live in [token-optimization-analysis-20260402.md](https://github.com/bizcad/bizcad-blog/blob/main/assets/artifacts/token-optimization-analysis-20260402.md).*
