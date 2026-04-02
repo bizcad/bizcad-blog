@@ -5,7 +5,7 @@ excerpt: "Context limits aren't a Claude problem — they're a hygiene problem. 
 author: Nick Stein
 ---
 
-I was mid-session on a PhoneBuddy feature last week — deep into a multi-file refactor — when Claude hit its context limit. Not at the end of a logical unit. Right in the middle of a thought.
+I was mid-session on a feature last week — deep into a multi-file refactor — when Claude hit its context limit. Not at the end of a logical unit. Right in the middle of a thought.
 
 My first instinct was frustration. My second instinct was to check whether I was the problem.
 
