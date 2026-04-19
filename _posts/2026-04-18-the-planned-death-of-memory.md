@@ -135,4 +135,4 @@ Because the storms that shaped the mountain didn't need the mist to remember the
 
 *Written in a single session, in conversation, on April 18, 2026. The ideas belong to the conversation. The words belong to the moment. Both will decay appropriately.*
 
-*Related posts: [Embracing Failure](https://bizcad.github.io/bizcad-blog/2026/03/25/embracing-failure-a-path-to-robust-ai-systems.html) · [The Tai-Chi of Error](https://bizcad.github.io/bizcad-blog/2026/04/05/the-tai-chi-of-error-why-failure-is-your-best-reme.html) · [Context Limits Aren't a Claude Problem](https://bizcad.github.io/bizcad-blog/2026/04/02/context-limits-arent-a-claude-problem.html)*
+*Related posts: [Embracing Failure](https://bizcad.github.io/bizcad-blog/2026/03/25/embracing-failure-agentic-resilience.html) · [The Tai-Chi of Error](https://bizcad.github.io/bizcad-blog/2026/04/05/the-tai-chi-of-error-why-failure-is-your-best-reme.html) · [Context Limits Aren't a Claude Problem](https://bizcad.github.io/bizcad-blog/2026/04/02/context-limits-arent-a-claude-problem.html)*

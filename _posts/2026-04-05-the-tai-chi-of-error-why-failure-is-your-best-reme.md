@@ -6,7 +6,7 @@ excerpt: "How Tai-Chi philosophy and FACA\u2014Failure As Completion Architectur
 author: Nicholas Stein
 ---
 
-In a previous post, I talked about [embracing failure](https://bizcad.github.io/bizcad-blog/2026/03/25/embracing-failure-a-path-to-robust-ai-systems.html) as a fundamental design pattern. But lately, I've been looking at this through a different lens—one that spans from 19th-century linguistics to the mats of a Tai-Chi dojo.
+In a previous post, I talked about [embracing failure](https://bizcad.github.io/bizcad-blog/2026/03/25/embracing-failure-agentic-resilience.html) as a fundamental design pattern. But lately, I've been looking at this through a different lens—one that spans from 19th-century linguistics to the mats of a Tai-Chi dojo.
 
 I've been reading an [extraordinary piece](https://www.oldnorthwhale.com/p/why-modern-chinese-is-just-english) by JingYu about how modern Chinese has been "Europeanized." The author argues that while the characters (Hanzi) look ancient, the "operating system" beneath them was swapped out for Western logic during the Meiji Restoration and the May Fourth Movement.
 
