@@ -17,11 +17,11 @@ I have been building agentic systems for long enough to know that the hardest th
 
 A 500 error is like the fog or white space in a Chinese landscape painting — it defines the boundary of the mountain. The Evaluator's job is to read that white space as carefully as the filled space. A success without white space analysis is just a pass/fail. The Evaluator asking "could it have been done better?" even on a happy path is reading the mist surrounding a success — where was the mist, where did the mountain almost not hold?
 
-An agent cannot rely on it's context to make correct decisions. It must also augment it's context from it's memory. What were the past successes and failures? What could it have done better? What patterns are emerging across incidents? The system needs to know not just what it remembers, but what it has learned from what it remembers. It needs to know the shape of the mountain, not the details of every storm.
+An agent cannot rely on its context to make correct decisions. It must also augment its context from its memory. What were the past successes and failures? What could it have done better? What patterns are emerging across incidents? The system needs to know not just what it remembers, but what it has learned from what it remembers. It needs to know the shape of the mountain, not the details of every storm.
 
-A system that only learns from failure only looks at the mist.  The white space is just as important as the mountain.  Failures is highest-signal completion state — it tells you exactly where the boundary is.
+A system that only learns from failure only looks at the mist. The white space is just as important as the mountain. Failure is the highest-signal completion state — it tells you exactly where the boundary is.
 
-A system that only learns from success is a system that only knows the mountain. It is blind to the mist. It does not know where the mountain ends and the mist begins. It does not know the boundary. It only know the shape of the mountain. It does not know what storms shaped it.
+A system that only learns from success is a system that only knows the mountain. It is blind to the mist. It does not know where the mountain ends and the mist begins. It does not know the boundary. It only knows the shape of the mountain. It does not know what storms shaped it.
 
 Intelligence is the label we put on the pattern after the fact. The mountain doesn't know it's a mountain. The mist doesn't know it's mist. The boundary between them isn't a thing — it's just where we decided to look.
 
@@ -47,7 +47,7 @@ There is a failure mode I have come to fear more than context overflow. It is su
 
 A system that only retains failure records cannot sense freshly.
 
-Every new Sensation arrives pre-judged. Every 500 error looks like the last 500 error. Every ambiguous input pattern-matches to prior harm. The Research phase is the Retrieve, the Electric Listen, the *what do I already know about this?* If it finds only finds failure if finds trauma. The system does not embrace failure. It is haunted by it.
+Every new Sensation arrives pre-judged. Every 500 error looks like the last 500 error. Every ambiguous input pattern-matches to prior harm. The Research phase is the Retrieve, the Electric Listen, the *what do I already know about this?* If it finds only failure, it finds only trauma. The system does not embrace failure. It is haunted by it.
 
 This is not resilience. It is psychosis.
 
@@ -65,7 +65,7 @@ In the SRCGEEE harness, memory is organized into tiers. Each tier has a differen
 - **Episodic memory** lives briefly — long enough to be distilled. Then it dies as an episodic and is reborn, transformed, as something smaller and more true.
 - **Semantic memory** holds the distilled pattern, and can be easily and quickly remembered. It lives until the pattern itself is superseded.
 - **Long-term memory** holds only what has proven durable across many cycles. It too will die when the world changes enough that durability no longer applies.
-- **Prospective memory** — the scheduled intention — dies the moment it executes or fades into the mist. It's death is its purpose.
+- **Prospective memory** — the scheduled intention — dies the moment it executes or fades into the mist. Its death is its purpose.
 
 The promotion pipeline is not just elevation. It is **planned death at each tier**. An episodic memory that rises to semantic does not accumulate — it transforms and releases. What was specific becomes general. What was incident becomes pattern. What was noise becomes signal.
 
